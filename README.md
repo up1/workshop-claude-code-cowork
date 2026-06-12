@@ -1,0 +1,1 @@
+# Workshop with Claude Code and Cowork

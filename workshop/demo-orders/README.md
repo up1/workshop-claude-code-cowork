@@ -11,10 +11,17 @@ and draft a brief risk mitigation plan matching my requested output tone
 and generate graphs to visualize the cancellation trends
 ```
 
-### Case 2: Supplier Agreement Revision for Beauty SKUs
+### Case 2: Gross Revenue vs. Net Revenue by Category
+```
+Access my context.md and the sales data file located at projects/ecommerce_analysis/orders_june2026.csv. Write and execute a Python script using matplotlib or seaborn to generate a clean visual chart. The chart must display Gross Revenue vs. Net Revenue by Category side-by-side.Set the color palette to match a professional corporate theme (e.g., dark blue and slate gray). 
+
+Save the chart as a high-resolution PNG image named sales_trend.png inside the projects/ecommerce_analysis/ folder. Once saved, update todo.md by checking off task_101 and output a brief note confirming the file path where the chart was created and the insights derived from the Gross Revenue vs. Net Revenue trends for each category
+```
+
+### Case 3: Supplier Agreement Revision for Beauty SKUs
 Case: The operations lead needs to draft a revised supplier agreement for high-margin Beauty SKUs. They want to ensure the new agreement includes stricter delivery timelines and penalties for late shipments to improve inventory management and sales performance.
 ```
 Read my @context.md and check @todo.md for task_102.
 Draft a revised supplier agreement for high-margin Beauty SKUs that includes stricter delivery timelines and penalties for late shipments, ensuring it aligns with my strategic goals and operating principles.
-and generate graphs to visualize the current delivery performance of Beauty SKUs to support the need for stricter timelines and penalties.
+and generate graphs to visualize the current delivery performance of Beauty SKUs to support the need for stricter timelines and penalties
 ``` 
